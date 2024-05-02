@@ -1,1 +1,2 @@
-print("peko")
+def peko():
+    print("peko")
